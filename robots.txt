@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SoTTM.github.io/Latent# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
+Sitemap: https://SoTTM.github.io/Latent/blog# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
